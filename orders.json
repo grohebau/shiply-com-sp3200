@@ -1,0 +1,47 @@
+{
+  "SE481527985DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Jakob Hutterer, Weinberg 10, 97956 Werbach-Niklashausen, Deutschland",
+    "receiver": "Yanick Huguenin, Rütihof 69, 4634 Wisen, Schweiz",
+    "price": "5.200,00 €",
+    "description": "Hersteller: BGU<br>Typ: SSA 310 EZ Evolution Sägespaltautomat<br>S.N: 81010158<br>Baujahr: 2010<br><br>Die Maschine ist voll funktionsfähig.",
+    "address": "Yanick Huguenin<br>Rütihof 69<br>4634 Wisen<br>Schweiz<br>Telefon: +41 779484459",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "15.07.2026",
+    "deliveryDate": "20.07.2026",
+    "pickup": {
+      "street": "Joseph-Meyer-Straße 7",
+      "postal_code": "99095",
+      "city": "Erfurt",
+      "country": "Deutschland",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
