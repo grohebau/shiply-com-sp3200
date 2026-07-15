@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Rütihof 69",
+      "postal_code": "4634",
+      "city": "Wisen",
+      "country": "Schweiz",
+      "lat": "47.405153231801975",
+      "lng": "7.889700323522166"
     }
   }
 }
