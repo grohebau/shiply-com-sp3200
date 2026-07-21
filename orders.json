@@ -1,6 +1,6 @@
 {
   "SE481527985DE": {
-    "status": "Warten auf Zahlung",
+    "status": "Versandvorbereitung",
     "statusClass": "pending",
     "sender": "Jakob Hutterer, Weinberg 10, 97956 Werbach-Niklashausen, Deutschland",
     "receiver": "Yanick Huguenin, Rütihof 69, 4634 Wisen, Schweiz",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "15.07.2026",
-    "deliveryDate": "20.07.2026",
+    "deliveryDate": "24.07.2026 🕟 16:30 Uhr",
     "pickup": {
       "street": "Joseph-Meyer-Straße 7",
       "postal_code": "99095",
