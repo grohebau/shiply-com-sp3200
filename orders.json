@@ -1,6 +1,6 @@
 {
   "SE481527985DE": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Jakob Hutterer, Weinberg 10, 97956 Werbach-Niklashausen, Deutschland",
     "receiver": "Yanick Huguenin, Rütihof 69, 4634 Wisen, Schweiz",
@@ -28,9 +28,9 @@
     "orderDate": "15.07.2026",
     "deliveryDate": "24.07.2026 🕟 16:30 Uhr",
     "pickup": {
-      "street": "Joseph-Meyer-Straße 7",
-      "postal_code": "99095",
-      "city": "Erfurt",
+      "street": "Hegenheimer Straße 15",
+      "postal_code": "79576",
+      "city": "Weil am Rhein",
       "country": "Deutschland",
       "lat": "",
       "lng": ""
